@@ -1,0 +1,13 @@
+name = "Glorpers"
+author = "Starr"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "41d9452678968d74b5ba30597bbc721f62e0caaf3d0096e15b4ca15257e8cfca"
+
+[versions]
+forge = "47.4.1"
+minecraft = "1.20.1"
