@@ -1,0 +1,13 @@
+name = "Alex's Mobs - Naturalist Compat"
+filename = "Compat_AlexsMobs-Naturalist.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DuiEs193/versions/SHXp9qMm/Compat_AlexsMobs-Naturalist.jar"
+hash-format = "sha512"
+hash = "51147f427698cc4b07688eae40de61118bbf785d40dfcf0a48d6228a5e86c7b52f770c8f906f835cd00ca80b3457c5a1a9e59b0f9fa795f415f1bdb74e97aef3"
+
+[update]
+[update.modrinth]
+mod-id = "DuiEs193"
+version = "SHXp9qMm"
