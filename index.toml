@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "cache/index.json"
-hash = "f0652e13cd5a086b49232f35b5d1d8814f0d0e1b0f6a9f6756835c4bb9622310"
-
-[[files]]
-file = "justfile"
-hash = "6638bbd5102f2ee0b9256c524bbd7ca8495d01d6276739297786f045a0384760"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
@@ -126,11 +118,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "f5f5a6c3fd3789b39a7c27f13ccacb1853ded49324a5e87f6673cf8ff0ced364"
-metafile = true
-
-[[files]]
-file = "mods/estrogen.pw.toml"
-hash = "e01c4925198bbcfd4cb3c00e0f89db7a45d3b56a3812b84b9b10535ab9455a28"
 metafile = true
 
 [[files]]
